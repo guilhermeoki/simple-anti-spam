@@ -1,0 +1,43 @@
+#
+# Arquivo de configuracao do script SPAM REPORTER
+#
+#
+# A configuracao eh separada em categorias que sao definidas usando o formato
+# categoria nome (separada por espaco)
+#
+# A configuracao dos itens de cada categoria sao definidas usando o formato
+# item valor (separado por espaco)
+#
+categoria palavras
+viagra 20
+cialis 10
+bank 15
+banco 10
+senha 20
+confirmacao 20
+helpdesk 5
+urgent 10
+urgente 10
+promocao 20
+imperdivel 20
+deposito 20
+charity 20
+
+categoria reputacao
+google 60
+
+categoria ip
+mx 25
+spf 50
+
+categoria reply
+replyto 20
+body 10
+
+categoria blacklist
+cn 70
+tw 70
+it 70
+
+categoria whitelist
+br 50
